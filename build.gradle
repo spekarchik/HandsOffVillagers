@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group = mod_group_id
+version = mod_version
+description = mod_description
+
+java {
+    toolchain.languageVersion.set(JavaLanguageVersion.of(21))
+}
+
+jar {
+    archiveBaseName.set(mod_id)
+}
