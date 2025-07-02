@@ -26,7 +26,7 @@ This prevents villagers (especially farmers) from picking them up and stuffing t
 - 🎮 **Client/server compatible** – drop into any world or server  
 - 🎯 **Focused** – affects only two items  
 - 🎨 **Custom icon included** – so even your datapack list looks great  
-- 🆕 **Minecraft 1.21+ supported**
+- 🆕 **Minecraft 1.21.2+ supported**
 
 ---
 
