@@ -43,15 +43,14 @@ If you're using other datapacks that edit the same tag, make sure to check compa
 # 🛠️ Installation and Technical Information
 
 ## Installation
-- Make sure you have **Minecraft 1.21.2-1.21.8** with **NeoForge**, **Forge** or **Fabric** installed.
+- Make sure you have **Minecraft 1.21.2-1.21.11** with **NeoForge**, **Forge** or **Fabric** installed.
 - **Fabric** requires **Fabric API** to be installed as well.
 - Download the mod `.jar` file.
 - Place it into your `mods` folder.
 - Launch the game and enjoy your adventure!
 
 ## Technical Details
-- **Developer:** Sergey Pekarchik
-- **Supported NeoForge, Forge, Fabric versions:** 1.21.2 - 1.21.8
+- **Supported Minecraft versions:** 1.21.2 - 1.21.11
 - **Source Code:** [GitHub Repository](https://github.com/spekarchik/HandsOffVillagers)
 
 ---
