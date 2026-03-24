@@ -1,9 +1,9 @@
 {
   "pack": {
     "pack_format": 88,
-    "supported_formats": [57, 94],
+    "supported_formats": [57, 101],
     "description": "Hands Off, Villagers! — stops villagers from picking up torchflower and pitcher seeds. Respect the seeds. Respect yourself.",
     "min_format": [57, 0],
-    "max_format": [94, 1]
+    "max_format": [101, 1]
   }
 }
